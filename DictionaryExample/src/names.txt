@@ -1,0 +1,18 @@
+910648	Cloud Strife 
+915708	Tifa Lockhart 
+915819	Barret Wallace 
+918552	Zack Fair 
+913647	Aerith Gainsborough 
+913363	Cid Highwind 
+909714	Reeve Tuesti 
+918297	Vincent Valentine 
+910374	Yuffie Kisaragi 
+911994	Marlene Wallace 
+910450	Rufus Shinra 
+909973	Nanaki 
+918239	Jessie Raspberry 
+916047	Elmyra Gainsborough 
+918110	Lucretia Crescent 
+911361	Evan Townshend 
+914989	Kyrie Canaan 
+915784	Leslie Kyle
