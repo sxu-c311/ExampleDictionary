@@ -29,6 +29,7 @@ public class DictionaryExample
                 System.out.println("0"+idNum+" "+name);
                 
                 //Add the person to a hash table
+                //The hash function is "mod 100"
                 table[idNum % 100] = name;
             }
         } 
@@ -40,7 +41,7 @@ public class DictionaryExample
         System.out.println("Read "+numberOfItems+" students.");
         System.out.println("There are "+checkMapSize()+" in the table.");
         
-        System.out.println("Look up student #913647");
+        System.out.println("Look up student #913647 (Expect Aerith)");
         System.out.println(table[913647 % 100]);
         //Hashing 913647 generated a collision.
     }
