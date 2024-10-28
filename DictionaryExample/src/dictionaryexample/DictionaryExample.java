@@ -7,6 +7,6 @@ public class DictionaryExample
 {
     public static void main(String[] args) 
     {
-        
+        System.out.println("Hello");
     }
 }
